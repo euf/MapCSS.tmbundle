@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>description</key>
+	<string>Support for the &lt;a href="https://wiki.openstreetmap.org/wiki/MapCSS"&gt;MapCSS&lt;/a&gt;.</string>
+	<key>name</key>
+	<string>MapCSS</string>
+	<key>ordering</key>
+	<array>
+		<string>2EC4FCF6-2724-426A-ACE9-FA3B717549CC</string>
+	</array>
+	<key>uuid</key>
+	<string>8D23E976-A4A4-418E-8F2D-D6FA5A3997FB</string>
+</dict>
+</plist>
